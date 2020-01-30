@@ -1,6 +1,11 @@
 # IBMiOSBatch
 Study and Practice Material
 
+GitHub Repository
+_________________________________________________________________________
+	https://github.com/techhue/IBMiOSBatch/
+_________________________________________________________________________	
+
 
 Swift Online Compiler
 _________________________________________________________________________
@@ -86,10 +91,24 @@ _______________________________________________________________
 
 DAY 4
 _______________________________________________________________
-	Read and Practice Swift String Examples
+	[MUST] Reading and Understanding Assignment [MUST]
 	___________________________________________________
-	https://developer.apple.com/documentation/swift/string
+		Read Chapter: Array And Pointers
+			Programming in C, By Kernigham and Denish Ricthie, 2nd Edition
+	
+	Read Swift String, Array and Collections Links and Practice Examples
+	_____________________________________________________
+		https://developer.apple.com/documentation/swift/string
+		https://developer.apple.com/documentation/swift/array
+		https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
+		
+	Read Set Theory
+	_____________________________________________________
+		NCERT 11th : Set Chapter
 
-
-
+	Read Hash Table Theory
+	_____________________________________________________
+		Data Structures and Program Design in C++, 
+			By Robert L. Kruse Alexander J. Ryba
+		
 
