@@ -111,4 +111,41 @@ _______________________________________________________________
 		Data Structures and Program Design in C++, 
 			By Robert L. Kruse Alexander J. Ryba
 		
+DAY 5
+_______________________________________________________________
+	[MUST] Reading, Understanding and Coding Assignment [MUST]
+	___________________________________________________
+		Functions Chapter
+		Array And Pointers Chapter
+		Struct and Union Chapter
+			Programming in C, By Kernigham and Denish Ricthie, 2nd Edition
+
+	Swift Coding Practices Till Date [MUST]
+	_____________________________________________________
+		Swift Programming Guide, Apple
+		https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+		
+		String, Array and Collections Links and Practice Examples
+		https://developer.apple.com/documentation/swift/string
+		https://developer.apple.com/documentation/swift/array
+		https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
+
+	Read Hash Table Theory [MUST]
+	_____________________________________________________
+		Data Structures and Program Design in C++, 
+			By Robert L. Kruse Alexander J. Ryba
+	
+	Process Topics [MUST]
+	_____________________________________________________
+		1. Computer System Overview [MUST]
+		2. Operating System Overview [Optional]
+		3. Process Description and Control [MUST]
+			Operating Systems: Internals and Design Principles Paperback
+				by William Stallings 
+		
+	Object Oriented Design And Analysis [Till Whatever You Are Like Read]
+	_____________________________________________________
+		Grady Bootch
+
+
 
