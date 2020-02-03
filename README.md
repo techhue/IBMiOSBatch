@@ -145,7 +145,18 @@ _______________________________________________________________
 		
 	Object Oriented Design And Analysis [Till Whatever You Are Like Read]
 	_____________________________________________________
-		Grady Bootch
+		Grady Booch
+
+
+DAY 6
+_______________________________________________________________
+	Swift Coding Practices Till Date [MUST]
+	_____________________________________________________
+		Swift Programming Guide, Apple
+	
+	Object Oriented Design And Analysis
+	_____________________________________________________
+		Grady Booch
 
 
 
