@@ -159,4 +159,17 @@ _______________________________________________________________
 		Grady Booch
 
 
+DAY 7
+_______________________________________________________________
+	Swift Coding Practice  Till Date [MUST]
+	_____________________________________________________
+		Swift Programming Guide, Apple
+	
+	Reading and Appreciating
+	_____________________________________________________
+		Objective C Presentaions
+
+	Object Oriented Design And Analysis
+	_____________________________________________________
+		Grady Booch
 
