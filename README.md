@@ -1,18 +1,51 @@
-# IBMiOSBatch
-Study and Practice Material
 
 GitHub Repository
 _________________________________________________________________________
 	https://github.com/techhue/IBMiOSBatch/
-_________________________________________________________________________	
 
+XCode IDE and Command Line Tools Download Link
+_________________________________________________________________________
+	https://developer.apple.com/download/more/
+	XCode 11.3.1 and Command Line Tools 11.3.1
 
 Swift Online Compiler
 _________________________________________________________________________
 	https://repl.it/languages/swift
+
+
 _________________________________________________________________________
+iOS Code Exploration and Reasoning
+_________________________________________________________________________
+PHASE: 01 - DONE
+	iOS.Code.Examples1 > iOS.ObjectiveCCode > ApplicationLifeCycle
+		ApplicationLifeCycle1
+		ApplicationLifeCycle3
 
+	iOS.Code.Examples1 > iOS.SwiftCode > ApplicationLifeCycle
+		ApplicationLifeCycle1
+		ApplicationLifeCycle3
 
+PHASE: 02 - NOW EXPOLORE THIS ONE
+	iOS.Code.Examples2 > iOS.ObjectiveCCode
+		4.More User Interface Fun
+
+	iOS.Code.Examples2 > iOS.SwiftCode
+		MoreUserInterfaceControls
+
+	Document:
+		Design Flaws In Both of Above Code Bases
+		Suggest Improvement and Better Design
+
+PHASE: 03
+	iOS.Code.Examples2 > iOS.ObjectiveCCode 
+		ViewControllerLifeCycle1
+		ViewControllerLifeCycle2
+
+	iOS.Code.Examples2 > iOS.SwiftCode
+		ViewControllerLifeCycle1
+		ViewControllerLifeCycle2
+
+_________________________________________________________________________
 Vim Editor Working With It!
 _________________________________________________________________________
 Mode Based Editor
@@ -145,8 +178,7 @@ _______________________________________________________________
 		
 	Object Oriented Design And Analysis [Till Whatever You Are Like Read]
 	_____________________________________________________
-		Grady Booch
-
+		Grady Bootch
 
 DAY 6
 _______________________________________________________________
@@ -157,7 +189,6 @@ _______________________________________________________________
 	Object Oriented Design And Analysis
 	_____________________________________________________
 		Grady Booch
-
 
 DAY 7
 _______________________________________________________________
@@ -173,3 +204,26 @@ _______________________________________________________________
 	_____________________________________________________
 		Grady Booch
 
+DAY 8
+_______________________________________________________________
+	Reading and Appreciating
+	_____________________________________________________
+		Objective C Presentaions
+
+DAY 9
+_______________________________________________________________
+	Reading and Appreciating [REMAINING PAGES]
+	_____________________________________________________
+		Objective C Presentaions
+
+	Document:
+	_____________________________________________________
+		iOS.Code.Examples2 > iOS.ObjectiveCCode
+			4.More User Interface Fun
+
+		iOS.Code.Examples2 > iOS.SwiftCode
+			MoreUserInterfaceControls
+
+		Document:
+			Design Flaws In Both of Above Code Bases
+			Suggest Improvement and Better Design
