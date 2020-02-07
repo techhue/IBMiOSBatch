@@ -227,3 +227,33 @@ _______________________________________________________________
 		Document:
 			Design Flaws In Both of Above Code Bases
 			Suggest Improvement and Better Design
+
+DAY 10
+_______________________________________________________________
+
+	Study and Reference Material
+	_______________________________________________________________
+		Swift Programming Guide
+		Objective-C Programming Guide
+		Programming In C, K&R 
+
+		iOS App Programming Guide
+		iOS ViewController Programming Guide
+		TableViewController Programming Guide
+		Apple Documentation
+
+	
+	Code Following Problems
+	_______________________________________________________________
+		1. Study and Explore All Code Examples and Projects
+		2. Start Developing iOS Apps (Swift)
+		https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
+		3. Update More User Inteface Fun [Everything In Code]
+			- Refactor To MVC Architecture
+			- Improve Code Design, Coding Guidelines and Performance
+			- Bring Models and Persist Data
+		4. Write Code in Swift For Custom Navigation Controller 
+		
+	Update GitHub Code Links In Following Document
+	_______________________________________________________________
+	https://docs.google.com/spreadsheets/d/1O82w2yueczzijCbJh6ORPzvXURF6-cFkh6OGEdPMhaQ/edit#gid=0
